@@ -26,10 +26,10 @@ var rightName = "dice" + randomNumber2 + ".png";
         }
 
        else if (n1>n2) {
-            document.querySelector("h1").textContent="🚩 Luka Wins !";
+            document.querySelector("h1").textContent="🚩 LUKA Wins !";
         }
         else {
-            document.querySelector("h1").textContent="Mark 2 Wins ! 🚩";
+            document.querySelector("h1").textContent="MARK Wins ! 🚩";
         }
       }
 
